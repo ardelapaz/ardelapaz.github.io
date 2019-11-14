@@ -1637,6 +1637,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.profile {
+			display: block;
+			object-fit: cover;
+			height: 200px;
+			width: 100%;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
